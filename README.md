@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @master-baglan
 - 👀 I’m interested in education,programming and robotics
-- 🌱 I’m currently learning ruby
+- 🌱 I’m currently learning python and Djangp framework
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me baglan.kuturbayev@gmail.com
 
